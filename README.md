@@ -3,7 +3,7 @@
 
 # Looking for a New Opportunity as a Data Scientist
 
-Thank you for taking the time to review my project! I am currently seeking new opportunities as a data scientist and appreciate your interest in my work.
+Thank you for taking the time to review my project! I am a data scientist based in Toronto, Canada and appreciate your interest in my work.
 
 ## Project Overview
 
